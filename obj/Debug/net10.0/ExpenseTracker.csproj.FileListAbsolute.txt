@@ -12,3 +12,4 @@ C:\Users\acer\ExpenseTracker\obj\Debug\net10.0\refint\ExpenseTracker.dll
 C:\Users\acer\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.pdb
 C:\Users\acer\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.genruntimeconfig.cache
 C:\Users\acer\ExpenseTracker\obj\Debug\net10.0\ref\ExpenseTracker.dll
+C:\Users\acer\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.sourcelink.json
